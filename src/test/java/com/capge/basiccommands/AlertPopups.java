@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AlertPopups {
+	//@author punam Phatangare
 	//HI this is edited in Github
 	WebDriver driver;
 	void loadURL()
